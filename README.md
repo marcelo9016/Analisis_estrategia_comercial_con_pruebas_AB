@@ -9,7 +9,4 @@ Este proyecto analiza estrategias comerciales utilizando pruebas A/B para evalua
 - **Pandas & NumPy**: Para la manipulación de datos.  
 - **Matplotlib & Seaborn**: Para visualizaciones.  
 
-## 🚀 Cómo ejecutar el proyecto  
-1. Clona este repositorio:  
-   ```bash
-   git clone https://github.com/marcelo9016/Pruebas_AB.git
+
